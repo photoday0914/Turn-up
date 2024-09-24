@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307946608406",
+    "project_id": "turnup-eec38",
+    "storage_bucket": "turnup-eec38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307946608406:android:406137d8364b43dea7e237",
+        "android_client_info": {
+          "package_name": "com.cw.turnup.turnup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307946608406-cqqr5indgkl0kd45arfq9kb5t51vf7u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cw.turnup.turnup",
+            "certificate_hash": "e06cd614e710e3607ee50a4bda36107fbcd0a8ea"
+          }
+        },
+        {
+          "client_id": "307946608406-9gebc9fr1na1u17plau3m7cidceq8h3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qs_U51ULnBZvQhWyhEtE3YrmIVepKRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307946608406-9gebc9fr1na1u17plau3m7cidceq8h3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
